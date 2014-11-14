@@ -1,3 +1,3 @@
 nodetalk
 ========
-WevRtc based node telephony app using soft MCU implementation
+WebRtc based node telephony app using soft MCU implementation
